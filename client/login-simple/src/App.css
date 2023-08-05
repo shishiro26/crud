@@ -1,0 +1,22 @@
+.register {
+  display: flex;
+  flex-direction: column;
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin: 3px;
+}
+
+button {
+  margin: 5px;
+  font-size: 15px;
+}
+
+input {
+  padding: 3px
+}
